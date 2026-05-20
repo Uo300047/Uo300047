@@ -5,12 +5,6 @@
 
 <br/>
 
-<!-- Typing animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=580&lines=Building+distributed+systems+from+scratch;Microservices+·+APIs+·+Databases+·+DevOps;Rust+for+performance%2C+Java+for+structure%2C+React+for+the+UI;3rd+year+—+already+thinking+like+a+software+engineer" alt="Typing SVG"/>
-</div>
-
-<br/>
 
 --- 
 ## 👤 About me
