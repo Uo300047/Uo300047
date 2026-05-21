@@ -11,8 +11,9 @@
 
 **L. Rodríguez Torres** · Software Engineering, 3rd year @ UniOvi  
 
-I like understanding how things work under the hood — not just making them work.  
-Distributed systems and clean architecture are where I spend most of my time thinking.  
+Asturias, Spain
+
+Passionate about crafting modern web applications: from microservices and clean architecture to testing, monitoring, and everything that makes systems reliable.
 
 🎓 Universidad de Oviedo · 🌍 Open to internships & collabs
 
